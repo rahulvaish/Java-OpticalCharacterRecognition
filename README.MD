@@ -5,5 +5,8 @@
 <hr>
 
 This repository contains an implementation of OCR in Java using Tessearct. The program processes the image, reads the Numeric Characters, and prints the same.
+**NOTE**: Do not change the name of the folder tessdata
+
+<hr>
 
 ###### Blog: [Simple Tesseract OCR — Java](https://medium.com/@rahulvaish/simple-tesseract-ocr-java-be261e343c5b)
