@@ -18,6 +18,7 @@ This repository contains OCR implementations in Java.
 - ###### [OCR using Azure Cognitive Services](https://github.com/rahulvaish/OpticalCharacterRecognition-Java/tree/AzureCognitiveServices) 
    ###### This example illustrates OCR implementation using Microsoft Azure Cognitive Services. [[Source Code]](https://github.com/rahulvaish/OpticalCharacterRecognition-Java/tree/AzureCognitiveServices)
    * Login into Microsoft Azure
-   * Create a Vision Resource
-   * We get the Endpoint and keys
+   * Create a Computer Vision Resource
+   ![image](https://user-images.githubusercontent.com/689226/54808538-7acc4400-4ca6-11e9-9c05-98a89a6d668a.png)
+   * Fill the necessary fields, post that we get the Endpoint and Keys
    * Make use of them in the [source code](https://github.com/rahulvaish/OpticalCharacterRecognition-Java/tree/AzureCognitiveServices) to enjoy the OCR service from Microsoft.
